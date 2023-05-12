@@ -2,7 +2,7 @@ from PyQt5 import QtWidgets
 import subprocess
 import sys
 from PyQt5.QtCore import Qt
-from PySide6.QtCore import QSize, Qt,Q
+from PySide6.QtCore import QSize, Qt
 from PySide6.QtGui import QPalette, QColor
 from PySide6.QtWidgets import QMainWindow, QToolBar, QPushButton, QStatusBar, QMessageBox, QVBoxLayout, QLabel, QHBoxLayout, QLineEdit, QWidget,QGridLayout
 from myDictionary import users
