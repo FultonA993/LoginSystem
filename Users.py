@@ -1,5 +1,0 @@
-
-users = [
-    ('adamlfulton', 'fultona'),
-]
-
